@@ -1,0 +1,12 @@
+# Blender MTL File: 'london phone.FBX'
+# Material Count: 1
+
+newmtl 01_-_Default
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.505882 0.505882 0.505882
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
